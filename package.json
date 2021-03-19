@@ -1,14 +1,12 @@
 {
   "name": "devopsonawsoff",
   "version": "1.0.0",
-  "description": "cristiano ub app",
+  "description": "Sample Node.js (Express) ",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
     "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC",
+  "license": "MIT-0",
   "dependencies": {
     "express": "^4.17.1"
   }
